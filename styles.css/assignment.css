@@ -21,3 +21,7 @@ nav{display: flex;align-items: center;justify-content: space-around;margin: 50px
 /*shared part*/
 .text-primary{color: #4E47FF;}
 .btn-primary{background-color: #4E47FF;font-size: 16px;padding: 12px 36px;font-weight: bold;color: white;border-radius: 4px;border: none;}
+.section-tittle{font-size: 42px;font-weight: bold;}
+.section-description{font-size: 20px;color: #252432;}
+.section-part{display: flex;gap: 203px;margin: 200px 100px;justify-content: center;}
+.section-part-image{border-radius: 20px;}
