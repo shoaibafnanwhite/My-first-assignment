@@ -29,8 +29,8 @@ nav{display: flex;align-items: center;justify-content: space-around;margin: 50px
 .review-tittle{font-weight: bold;color: #252432;font-size: 38px; }
 .review{background-color:#d2d0ff  ;border-radius: 10px;padding: 50px 80px;text-align: center;max-width: 1140px;margin: 50px 80px;}
 .review-items{display: flex;justify-content: space-around;}
-.review-item{font-size: 80px;color: #4E47FF;justify-content: center;text-align: justify}
-.review-description{text-align: center;color:lightblue;}
+.review-item{font-size: 80px;color: #4E47FF;justify-content: center;text-align:justify;font-weight: bold;}
+.review-description{text-align: center;color:lightblue;color: #252432;margin: 20px auto 50px;}
 /*main*/
 main{max-width: 1140px;margin: 0 auto;}
 /*focus*/
@@ -40,9 +40,15 @@ main{max-width: 1140px;margin: 0 auto;}
 .focus-pic{align-items: center;border-radius:14px ;margin-top: 20px;margin-bottom: 70px;}
 /*footer-tittle*/
 .footer-tittle{font-size: 97px;font-weight: bold;height: 232px;width: 528px;}
-footer{padding: 180px 200px;display: flex;gap: 300px;}
+.footer-1{padding: 180px 200px;display: flex;gap: 300px;}
 footer input[type="text"],footer input[type="email"],footer textarea
 {height: 70px;background-color: white;color: #000000;border-radius: 10px;display: block;width: 497px;font-size: 20px;padding: 20px ;margin-bottom: 24px;border: none;}
-.footer-logo{color: #4E47FF;width: 297px;height: 121px;}
-.after-logo{color: #4E47FF;height: 121px;width: 291px;font-size: 100px;font-weight: 500;}
+.after-logo{color: #4E47FF;font-size: 100px;font-weight:500px;height: 121px;margin-bottom: 8px;}
+.footer-2{align-content: center;text-align: center;}
+.last-colour{color: #8987A1;}
+.last-items{display: flex;margin-right: 30px;justify-content: space-evenly;}
+.extra-colour{background-color:#eaeaff;}
+.extra-colour-2{background-color: #FFFFFF;}
+
+
 
